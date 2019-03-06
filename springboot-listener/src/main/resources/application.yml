@@ -1,0 +1,7 @@
+server:
+  servlet:
+    context-path: /springboot
+
+context:
+  listener:
+    classes: com.listener.MyListener3
